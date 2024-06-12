@@ -1,0 +1,9 @@
+python-dotenv
+qdrant-client
+fastembed
+datasets
+dspy-ai
+transformers
+torch
+accelerate
+google-generativeai
